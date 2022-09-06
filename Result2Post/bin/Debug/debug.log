@@ -1,0 +1,303 @@
+[0602/155630.744:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/155631.422:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/155642.532:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0602/155642.535:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0602/160737.635:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/160738.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/160741.879:INFO:CONSOLE(3)] "Uncaught TypeError: Cannot read properties of null (reading 'click')", source: about:blank (3)
+[0602/160810.398:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/160811.157:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/160813.696:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/160813.847:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/160815.822:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0602/160815.826:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0602/160919.451:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/160919.916:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/160939.121:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0602/161029.054:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/161029.487:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0602/161040.019:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0602/161040.036:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0606/184415.616:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184416.049:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184425.397:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0606/184542.981:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184543.886:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184544.599:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184544.726:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184546.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184546.370:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184601.450:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184601.976:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184603.260:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184603.378:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184604.429:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184604.528:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184606.481:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0606/184804.336:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184804.839:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184811.062:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0606/184902.854:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184903.431:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184905.667:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184905.814:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/184908.797:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0606/184908.801:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0606/201708.188:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/201708.711:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/202026.117:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/202026.578:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/202051.613:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/202051.986:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/202709.466:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/202709.809:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/202748.753:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/202749.121:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/202809.253:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/203354.561:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/203355.027:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/203501.861:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/203502.234:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/211307.360:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/211308.013:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/211412.132:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/211412.514:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/211817.928:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/211818.893:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/211825.711:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/211826.145:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/211836.263:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0606/211836.266:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0606/211836.280:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 95
+[0606/212051.792:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212052.677:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212053.903:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212054.052:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212102.119:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0606/212102.125:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0606/212150.158:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212150.550:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212151.545:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212151.694:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212236.404:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212237.003:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0606/212242.359:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0606/212242.369:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 83
+[0607/092434.527:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/092435.310:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/092612.885:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/092613.281:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/092841.820:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/092842.229:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/092848.727:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0607/092848.742:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 93
+[0607/092848.759:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0607/092946.065:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/092946.731:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093456.959:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093457.420:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093607.931:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093608.566:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093630.177:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093630.946:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093632.122:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093632.274:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093914.702:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093915.242:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093916.789:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093916.929:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/093920.596:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0607/093920.617:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0607/093920.618:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 137
+[0607/195925.709:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/195926.133:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/200703.940:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/200704.387:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/200706.335:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/200706.492:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/200814.342:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/200814.947:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/200850.453:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/200850.628:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/200856.662:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 31
+[0607/200856.713:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0607/223536.728:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223537.770:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223540.468:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223540.628:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223723.997:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223724.579:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223726.570:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223726.719:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223857.614:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223858.682:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223900.038:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/223900.188:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224014.374:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224014.908:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224153.128:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224153.974:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224213.783:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224214.291:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224410.935:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224411.615:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224413.394:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224413.401:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 1
+[0607/224413.401:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[0607/224413.401:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 5
+[0607/224413.403:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 7
+[0607/224413.403:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[0607/224413.403:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[0607/224413.426:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 13
+[0607/224413.430:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 15
+[0607/224413.431:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 17
+[0607/224413.432:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 19
+[0607/224413.432:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 21
+[0607/224413.453:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 23
+[0607/224413.453:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 25
+[0607/224413.535:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224438.799:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224439.194:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224443.756:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0607/224444.119:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/170934.019:INFO:child_thread_impl.cc(903)] ChildThreadImpl::EnsureConnected()
+[0608/171010.949:ERROR:network_service_instance_impl.cc(470)] Network service crashed, restarting service.
+[0608/192419.510:INFO:child_thread_impl.cc(903)] ChildThreadImpl::EnsureConnected()
+[0608/192620.393:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/192621.496:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/192627.903:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0608/192859.822:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/192900.741:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/194732.269:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/194733.312:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/194853.384:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/194854.019:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/195150.766:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/195151.703:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/195330.847:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/195331.386:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/195438.585:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/195439.173:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/195800.283:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/195800.871:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/200017.288:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/200017.749:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0608/200026.015:INFO:CONSOLE(5)] "[OpenWeb Launcher] v2.79.1", source: https://launcher.spot.im/spot/sp_704FKM73 (5)
+[0608/200026.858:INFO:CONSOLE(1)] "fun-hooks: referenced 'adpod' but it was never created", source: https://ads.adthrive.com/builds/core/0d740db/vendor/prebid/prebid.min.js (1)
+[0608/200027.007:INFO:CONSOLE(3)] "%cBaseDynamicAdsInjector::_logDensityInfo  color: #999; font-weight: bold; [object Object]", source: https://ads.adthrive.com/builds/core/0d740db/es2018/js/adthrive.min.js?deployment=stable (3)
+[0608/200027.139:INFO:CONSOLE(10)] "googletag.pubads().setSafeFrameConfig({useUniqueDomain: ...}) has been removed, and no longer has any effect.", source: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022060701.js?cb=31067938 (10)
+[0608/200027.155:INFO:CONSOLE(10)] "[GPT] Error in googletag.defineSlot: Cannot create slot /18190176,15510053/AdThrive_Sidebar_1/61575e8e934c48ea554b3caa. Div element "AdThrive_Sidebar_1_desktop" is already associated with another slot: /18190176,15510053/AdThrive_Sidebar_1/61575e8e934c48ea554b3caa.", source: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022060701.js?cb=31067938 (10)
+[0608/200027.156:INFO:CONSOLE(3)] "%cGoogleAdManager::defineSlots Duplicate /18190176,15510053/AdThrive_Sidebar_1/61575e8e934c48ea554b3caa color: #999; font-weight: bold;", source: https://ads.adthrive.com/builds/core/0d740db/es2018/js/adthrive.min.js?deployment=stable (3)
+[0608/200027.176:INFO:CONSOLE(10)] "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'setTargeting')", source: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022060701.js?cb=31067938 (10)
+[0608/200027.190:INFO:CONSOLE(10)] "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'setTargeting').", source: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022060701.js?cb=31067938 (10)
+[0608/200027.191:INFO:CONSOLE(3)] "%cSlot::setTargeting Attempted to set targeting before slot was defined color: #999; font-weight: bold; [object Object]", source: https://ads.adthrive.com/builds/core/0d740db/es2018/js/adthrive.min.js?deployment=stable (3)
+[0608/200027.200:INFO:CONSOLE(3)] "%cSlot::setTargeting Attempted to set targeting before slot was defined color: #999; font-weight: bold; [object Object]", source: https://ads.adthrive.com/builds/core/0d740db/es2018/js/adthrive.min.js?deployment=stable (3)
+[0608/200027.201:INFO:CONSOLE(3)] "%cSlot::setTargeting Attempted to set targeting before slot was defined color: #999; font-weight: bold; [object Object]", source: https://ads.adthrive.com/builds/core/0d740db/es2018/js/adthrive.min.js?deployment=stable (3)
+[0608/200027.202:INFO:CONSOLE(3)] "%cSlot::setTargeting Attempted to set targeting before slot was defined color: #999; font-weight: bold; [object Object]", source: https://ads.adthrive.com/builds/core/0d740db/es2018/js/adthrive.min.js?deployment=stable (3)
+[0608/200029.572:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803782 [6,6]
+[0608/200029.963:WARNING:media_session.cc(939)] RED codec red is missing an associated payload type.
+[0608/200030.292:INFO:CONSOLE(1)] "Uncaught Error: No element option passed to Waypoint constructor", source: https://merriam-webster.com/assets/mw/dist/compiled/js/js-dsp-redesign-definitions.980f00a73b686bb42e8e.js (1)
+[0608/200030.770:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771079 [7,7]
+[0608/200033.163:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[0608/200033.920:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 1
+[0608/200033.961:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[0608/200034.483:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 1
+[0608/200034.572:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 1
+[0608/200034.572:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[0608/200034.580:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 1
+[0608/200035.302:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738376 [8,8]
+[0608/200035.399:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[0608/200035.399:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 5
+[0608/200035.700:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803782 [6,6]
+[0608/200035.700:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803782 [6,6]
+[0608/200035.700:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803782 [6,6]
+[0608/200035.701:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803782 [6,6]
+[0608/200035.947:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[0608/200035.947:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 1
+[0608/200035.947:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 7
+[0608/200035.947:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 5
+[0608/200035.947:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[0608/200035.947:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[0608/200036.550:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 1
+[0608/200036.550:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[0608/200036.550:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 5
+[0608/200036.551:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 5
+[0608/200036.594:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[0608/200036.769:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 5
+[0608/200037.054:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 7
+[0608/200037.143:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 5
+[0608/200037.812:INFO:CONSOLE(10)] "[GPT] Invalid arguments: PubAdsService.refresh([null]).", source: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022060701.js?cb=31067938 (10)
+[0610/151058.808:INFO:child_thread_impl.cc(903)] ChildThreadImpl::EnsureConnected()
+[0610/151813.308:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/151813.792:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/152143.269:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/152144.333:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/153707.551:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/153708.333:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/155539.431:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/155540.372:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/160612.808:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/160613.390:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/160645.112:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/160645.580:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/161509.372:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/161509.858:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/161725.152:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/161725.835:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/161952.960:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/161953.380:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/162042.335:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/162042.988:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/163047.312:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/163047.724:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/163338.965:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/163339.453:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/164845.705:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/164846.240:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/170548.328:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0610/170548.865:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0611/093203.393:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0611/093203.894:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0611/093534.733:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0611/093535.339:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/102055.794:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/102111.621:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/110929.441:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/110930.190:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/111311.009:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/111311.415:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/111326.143:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0618/114241.292:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/114241.877:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/114307.883:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/114308.406:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/114745.787:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/114746.695:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/114952.603:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/114953.589:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/115051.716:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/115052.133:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/115101.942:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0618/115101.946:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0618/115241.044:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/115241.922:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/115353.939:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/115354.885:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/124616.332:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0618/124616.827:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/113453.776:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/113454.734:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/114546.847:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/114547.277:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/114633.976:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/114634.641:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/114848.396:ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0629/115553.470:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/115553.887:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/115857.730:ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0629/120035.792:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/120036.216:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/120044.673:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/120045.124:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[0629/120048.990:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0629/120048.998:WARNING:frame_impl.cc(431)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
